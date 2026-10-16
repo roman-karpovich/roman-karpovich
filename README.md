@@ -31,6 +31,7 @@ in step with every protocol upgrade.
 - **DeFi systems** — the backend side of on-chain protocols: liquidity and incentive mechanics, indexing chain state into data services can trust.
 - **Rust where it matters** — code where both milliseconds and correctness count.
 - **Blockchain internals** — how transactions are simulated, ordered and paid for, from the SDK down to the node.
+- **AI-assisted engineering** — two generations of my own agent toolkit ([ai-dev-team](https://github.com/roman-karpovich/ai-dev-team)): spec-first development where one model builds and a model from another provider cross-reviews, with disagreements settled on evidence. Shipped and hardened production code with it.
 - **Security** — reading contracts adversarially; LLM-assisted review.
 - **Infrastructure** — AWS, Docker, Ansible, observability, and keeping the cloud bill honest.
 
