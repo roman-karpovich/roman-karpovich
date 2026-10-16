@@ -35,8 +35,8 @@ in step with every protocol upgrade.
 - **Infrastructure** — AWS, Docker, Ansible, observability, and keeping the cloud bill honest.
 
 Before crypto: a decade of Python/Django, much of it on **UNICEF eTools** — a large production
-platform for UNICEF's programme and partner management — including the
-[open-source Django packages](https://github.com/orgs/unicef/repositories?q=unicef-) extracted from it.
+platform for UNICEF's programme and partner management. 1,600+ commits, one of its top five contributors,
+plus the [open-source Django packages](https://github.com/orgs/unicef/repositories?q=unicef-) extracted from it.
 
 ## Toolbox
 
