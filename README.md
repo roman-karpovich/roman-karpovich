@@ -1,7 +1,7 @@
 <h1 align="center">Roman Karpovich</h1>
 
 <p align="center">
-  <b>Rust · Python · Stellar / Soroban</b><br>
+  <b>Rust · Python · Stellar / Soroban · Solana</b><br>
   I build the systems around smart contracts<br>
   and the tooling that tests them against the real network.
 </p>
@@ -44,6 +44,7 @@ packages for UNICEF's eTools platform, and plenty of production APIs.
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Soroban-7D00FF?style=flat-square&logo=stellar&logoColor=white" alt="Soroban">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
