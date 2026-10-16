@@ -34,8 +34,9 @@ in step with every protocol upgrade.
 - **Security** — reading contracts adversarially; LLM-assisted review.
 - **Infrastructure** — AWS, Docker, Ansible, observability, and keeping the cloud bill honest.
 
-Before crypto: a decade of Python/Django — [drf-batch-requests](https://github.com/roman-karpovich/drf-batch-requests),
-packages for UNICEF's eTools platform, and plenty of production APIs.
+Before crypto: a decade of Python/Django, much of it on **UNICEF eTools** — a large production
+platform for UNICEF's programme and partner management — including the
+[open-source Django packages](https://github.com/orgs/unicef/repositories?q=unicef-) extracted from it.
 
 ## Toolbox
 
