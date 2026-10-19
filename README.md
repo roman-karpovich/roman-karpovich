@@ -1,8 +1,8 @@
 <h1 align="center">Roman Karpovich</h1>
 
 <p align="center">
-  <b>Rust · Python · Stellar / Soroban · Solana</b><br>
-  I build the systems around smart contracts<br>
+  <b>Smart contracts · Rust · Python · Soroban · Solidity · Solana</b><br>
+  I write smart contracts, build the systems around them,<br>
   and the tooling that tests them against the real network.
 </p>
 
@@ -28,6 +28,7 @@ in step with every protocol upgrade.
 
 ## What I'm good at
 
+- **Smart contracts** — the core contracts behind some of the largest and most critical DeFi protocols on Stellar: a large body of production Soroban code, taken through multiple independent audits. Solidity and Solana as well.
 - **DeFi systems** — the backend side of on-chain protocols: liquidity and incentive mechanics, indexing chain state into data services can trust.
 - **Rust where it matters** — code where both milliseconds and correctness count.
 - **Blockchain internals** — how transactions are simulated, ordered and paid for, from the SDK down to the node.
